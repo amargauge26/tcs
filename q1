@@ -1,0 +1,6 @@
+Particulate matters are the biggest contributors to Delhi's pollution. The main reason behind the increase in the concentration of PMs includes vehicle emission by applying the Odd-Even concept for all types of vehicles. The vehicles with the odd last digit in the registration number will be allowed on roads on odd dates and those with an even last digit will be on even dates.
+
+
+
+Given an integer array a[], contains the last digit of the registration number of N vehicles traveling on date D(a positive integer). The task is to calculate the total fine collected by the traffic police department from the vehicles violating the rules.
+
